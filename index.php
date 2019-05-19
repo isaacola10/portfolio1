@@ -148,51 +148,7 @@
                 <!-- portfolio_container -->
                 <div class="no-padding portfolio_container clearfix">
                     <!-- single work -->
-                    <div class="col-md-4 col-sm-6  website">
-                        <a href="https://south1.herokuapp.com/" class="portfolio_item" target="_blank">
-                            <img src="img/south1.png" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Koko&Company</span>
-                                        <em>Website / Designs</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-6 ads graphics logo">
-                        <a href="https://spac1.herokuapp.com" class="portfolio_item" target="_blank">
-                            <img src="img/rep1.png" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>St. Paul Anglican Church </span>
-                                        <em>Graphics / Logo</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
-                    <!-- end single work -->
-
-                    <!-- single work -->
-                    <div class="col-md-4 col-sm-12 photography">
-                        <a href="http://lashaholicbybella.herokuapp.com" class="portfolio_item" target="_blank">
-                            <img src="img/lashes1.png" alt="image" class="img-responsive" />
-                            <div class="portfolio_item_hover">
-                                <div class="portfolio-border clearfix">
-                                    <div class="item_info">
-                                        <span>Project Y</span>
-                                        <em>Photography</em>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                    </div>
+                    
                     <!-- end single work -->
 
                     <!-- single work -->
@@ -220,7 +176,7 @@
                     <!-- end single work -->
 
                     <!-- single work -->
-                    
+
                     <!-- end single work -->
 
                     <!-- single work -->
